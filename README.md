@@ -2,7 +2,7 @@
 
 ## 🔎 Project Overview
 
-This project analyzes reported crime incidents in **Chicago (2001–Present dataset)** to identify:
+This project analyzes reported crime incidents in **Chicago (2001–January 2026)** to identify:
 
 - Crime volume trends
 - Domestic vs non-domestic distribution
@@ -122,7 +122,7 @@ The model is designed for analytical reporting with:
 
 ---
 ## 📸 Dashboard Preview
-![Chicago Crime Analysis](images/chicago_crime_dashboard.png)
+![Chicago Crime Analysis](images/ChicagoCrimeDasboard.png)
 
 ---
 
