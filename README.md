@@ -122,7 +122,7 @@ The model is designed for analytical reporting with:
 
 ---
 ## 📸 Dashboard Preview
-![Chicago Crime Analysis](images/ChicagoCrimeDasboard.png)
+![Chicago Crime Analysis](images/ChicagoCrimeDashboard.png)
 
 ---
 
